@@ -1,0 +1,20 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap04\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe.config
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.AssemblyReference.cache
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.SuggestedBindingRedirects.cache
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Form1.resources
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.GenerateResource.cache
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.CoreCompileInputs.cache
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+C:\Development\C#\C#.NET\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb
